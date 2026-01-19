@@ -1,0 +1,1 @@
+Place to store and showcase homework assignments for Time Series
